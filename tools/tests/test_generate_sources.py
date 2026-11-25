@@ -29,7 +29,7 @@ class GeneratorTests(unittest.TestCase):
 
     def record(self, ident="S001", filename=None, **changes):
         data = dict(id=ident, title="Title | detail", publisher="Publisher",
-                    url=None, status="retrieved", selection_rationale="Reason",
+                    kind="dictionary entry", url=None, status="retrieved", selection_rationale="Reason",
                     limitations="Limit")
         data.update(changes)
         path = self.sources / (filename or ident + ".md")
@@ -44,7 +44,7 @@ class GeneratorTests(unittest.TestCase):
         self.assertTrue(result.startswith("Before\n" + generator.BEGIN))
         self.assertTrue(result.endswith(generator.END + "\nAfter\n"))
         self.assertLess(result.index("| S001 |"), result.index("| S002 |"))
-        self.assertIn(r"| S001 | Publisher — Title \| detail |", result)
+        self.assertIn(r"| S001 | Publisher — Title \| detail | dictionary entry |", result)
         self.assertIn("](https://example.org)", result)
         before = self.target.stat().st_mtime_ns
         generator.generate()
@@ -58,6 +58,10 @@ class GeneratorTests(unittest.TestCase):
         self.assertEqual(before, self.target.read_bytes())
 
     def test_no_records(self):
+        self.assert_rejected()
+
+    def test_blank_kind(self):
+        self.record(kind=" ")
         self.assert_rejected()
 
     def test_invalid_url(self):

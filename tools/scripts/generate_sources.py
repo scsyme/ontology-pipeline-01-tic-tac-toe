@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parents[2]
 STAGE = ROOT / "01-controlled-vocabulary"
 BEGIN = "<!-- BEGIN GENERATED SOURCES -->"
 END = "<!-- END GENERATED SOURCES -->"
-KEYS = {"id", "title", "publisher", "url", "status",
+KEYS = {"id", "title", "kind", "publisher", "url", "status",
         "selection_rationale", "limitations"}
 
 
@@ -40,13 +40,13 @@ def generate():
         records[ident] = data
     if not records:
         raise ValueError("No source records found")
-    lines = ["| ID | Source | Selection rationale | Limitations / status |",
-             "| --- | --- | --- | --- |"]
+    lines = ["| ID | Source | Kind | Selection rationale | Limitations / status |",
+             "| --- | --- | --- | --- | --- |"]
     for ident, data in sorted(records.items()):
         name = cell(f'{data["publisher"]} — {data["title"]}')
         source = f'[{name}]({data["url"]})' if data["url"] else name
         status = cell(data["status"].capitalize() + "; " + data["limitations"])
-        lines.append(f'| {ident} | {source} | {cell(data["selection_rationale"])} | {status} |')
+        lines.append(f'| {ident} | {source} | {cell(data["kind"])} | {cell(data["selection_rationale"])} | {status} |')
     target = STAGE / "sources.md"
     original = target.read_bytes().decode("utf-8")
     if original.count(BEGIN) != 1 or original.count(END) != 1:
