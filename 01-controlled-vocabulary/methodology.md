@@ -24,4 +24,8 @@ Consider [S005, the MIT OpenCourseWare assignment](sources/S005.md). The assignm
 
 [S003, the deferred book](sources/S003.md), tests the limits of that reading. We have a bibliographic reference but have yet to verify the relevant passage or record how we accessed it. Assigning a system from the author names would invent provenance.
 
-**Review decision still open.** Would recording the access platform and the nature of the evidence help us judge source suitability for the legal-move question? Review S005 and S003 together before deciding whether to amend the source frontmatter or its validator. The [source register](sources.md) records the earlier retrieval attempt. This dated review provides the subsequent methodology evidence.
+## Experiment decision, 2026-11-25
+
+Record the source genre in a required `kind` field on each atomic source record. Use a short, specific label and reuse it for other sources of the same kind. The labels are local editorial judgements and the list is open. For example, the dictionary entry in S004 can help with naming, while the programming assignment in S005 can help with move restrictions. The selection rationale explains why each item matters to our question. S003 can be identified as a book from its citation while its passage remains unverified.
+
+Whether a separate `system` field improves traceability remains open.
