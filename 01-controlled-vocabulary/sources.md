@@ -4,6 +4,8 @@ Date: 2026-11-25. Status: candidate sources for review; no vocabulary approved.
 
 Purpose: establish traceable evidence for conventional 3×3 tic-tac-toe and the initial competency question in [README](../README.md). Source IDs are local stable references, not concept identifiers.
 
+<!-- BEGIN GENERATED SOURCES -->
+
 | ID | Source | Selection rationale | Limitations / status |
 | --- | --- | --- | --- |
 | S001 | [NRICH, University of Cambridge — Noughts and Crosses](https://nrich.maths.org/games/noughts-and-crosses) | Accessible account of turn-taking, grid occupancy and winning lines. | Retrieved; educational description does not explicitly specify all terminal conditions or who starts. |
@@ -12,6 +14,8 @@ Purpose: establish traceable evidence for conventional 3×3 tic-tac-toe and the 
 | S004 | [Cambridge Dictionary — tic-tac-toe](https://dictionary.cambridge.org/dictionary/english/tic-tac-toe) | Lexical evidence, UK/US names and concise game definition. | Retrieved; not a complete rules specification. |
 | S005 | [MIT OpenCourseWare — Noughts and Crosses](https://ocw.mit.edu/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/35626e9743ee128e1297030dc96d8243_MITEC_S01S05_noughtscros.pdf) | Explicit X-first convention, occupied-square restriction and terminal outcomes. | Retrieved; programming assignment, so implementation-specific terminology is not automatically domain terminology. |
 | S006 | [University of Toronto — Noughts-and-crosses](https://www.math.utoronto.ca/barbeau/fn26.pdf) | Explicit distinction between winning and drawn terminal states; mathematical domain description. | Retrieved; broader mathematical discussion may exceed scope. |
+
+<!-- END GENERATED SOURCES -->
 
 ## Source selection decisions
 
