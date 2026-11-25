@@ -8,12 +8,12 @@ Purpose: establish traceable evidence for conventional 3×3 tic-tac-toe and the 
 
 | ID | Source | Selection rationale | Limitations / status |
 | --- | --- | --- | --- |
-| S001 | [NRICH, University of Cambridge — Noughts and Crosses](https://nrich.maths.org/games/noughts-and-crosses) | Accessible account of turn-taking, grid occupancy and winning lines. | Retrieved; educational description does not explicitly specify all terminal conditions or who starts. |
-| S002 | [Eric W. Weisstein, MathWorld — Tic-Tac-Toe](https://mathworld.wolfram.com/Tic-Tac-Toe.html) | Mathematical terminology, conventional board, turn order and generalisation. | Retrieved; variants and strategy are outside initial scope. |
-| S003 | Salen and Zimmerman, Rules of Play: Game Design Fundamentals (2003) | Formal game-design perspective. | Deferred: original relevant passage not verified; do not extract terms from it yet. |
-| S004 | [Cambridge Dictionary — tic-tac-toe](https://dictionary.cambridge.org/dictionary/english/tic-tac-toe) | Lexical evidence, UK/US names and concise game definition. | Retrieved; not a complete rules specification. |
-| S005 | [MIT OpenCourseWare — Noughts and Crosses](https://ocw.mit.edu/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/35626e9743ee128e1297030dc96d8243_MITEC_S01S05_noughtscros.pdf) | Explicit X-first convention, occupied-square restriction and terminal outcomes. | Retrieved; programming assignment, so implementation-specific terminology is not automatically domain terminology. |
-| S006 | [University of Toronto — Noughts-and-crosses](https://www.math.utoronto.ca/barbeau/fn26.pdf) | Explicit distinction between winning and drawn terminal states; mathematical domain description. | Retrieved; broader mathematical discussion may exceed scope. |
+| S001 | [University of Cambridge (NRICH) — Noughts and Crosses](https://nrich.maths.org/games/noughts-and-crosses) | Accessible account of turn-taking, grid occupancy and winning lines. | Retrieved; Educational description does not explicitly specify all terminal conditions or who starts. |
+| S002 | [Eric W. Weisstein, MathWorld — Tic-Tac-Toe](https://mathworld.wolfram.com/Tic-Tac-Toe.html) | Mathematical terminology, conventional board, turn order and generalisation. | Retrieved; Variants and strategy are outside initial scope. |
+| S003 | Salen and Zimmerman — Rules of Play: Game Design Fundamentals (2003) | Formal game-design perspective. | Deferred; Original relevant passage not verified; do not extract terms from it yet. |
+| S004 | [Cambridge Dictionary — tic-tac-toe](https://dictionary.cambridge.org/dictionary/english/tic-tac-toe) | Lexical evidence, UK/US names and concise game definition. | Retrieved; Not a complete rules specification. |
+| S005 | [MIT OpenCourseWare — Noughts and Crosses](https://ocw.mit.edu/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/35626e9743ee128e1297030dc96d8243_MITEC_S01S05_noughtscros.pdf) | Explicit X-first convention, occupied-square restriction and terminal outcomes. | Retrieved; Programming assignment, so implementation-specific terminology is not automatically domain terminology. |
+| S006 | [University of Toronto — Noughts-and-crosses](https://www.math.utoronto.ca/barbeau/fn26.pdf) | Explicit distinction between winning and drawn terminal states; mathematical domain description. | Retrieved; Broader mathematical discussion may exceed scope. |
 
 <!-- END GENERATED SOURCES -->
 
