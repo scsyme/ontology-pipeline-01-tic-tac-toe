@@ -5,6 +5,8 @@ reviewed_on: "2026-11-27"
 term_ids:
   - "T005"
   - "T006"
+  - "T007"
+  - "T008"
 source_ids:
   - "S001"
   - "S002"
@@ -39,4 +41,8 @@ Vacancy alone does not establish that a move is legal. The stopping-rule evidenc
 
 ## Review decision
 
-Vacant and filled are source-attested candidates. The preferred wording for occupancy remains open to Scott's selection. The proposed alignment and distinction between occupancy and contents are interpretations for review. The recorded source-access limitations remain applicable.
+Vacant and filled are source-attested candidates. Scott selected empty and occupied on 2026-11-27. The proposed alignment and distinction between occupancy and contents are interpretations for review. The recorded source-access limitations remain applicable.
+
+## Stakeholder selection, 2026-11-27
+
+Use [empty (T007)](../terms/T007.md) and [occupied (T008)](../terms/T008.md) as the preferred occupancy terms. [S007](../sources/S007.md) records the selection. Vacant and filled retain candidate status for later thesaurus work. Formal definitions remain open.
