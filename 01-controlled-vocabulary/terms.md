@@ -23,7 +23,7 @@ Regenerate with `python tools/scripts/generate_terms.py`. Edit the individual re
 | [T006](terms/T006.md) | filled | candidate | [S005](sources/S005.md) | filled | p. 1, second paragraph, final sentence | a space that is already filled |
 | [T007](terms/T007.md) | empty | preferred | [S007](sources/S007.md) | empty | Occupancy wording decision, stakeholder reply dated 2026-11-27 | empty / occupied |
 | [T008](terms/T008.md) | occupied | preferred | [S007](sources/S007.md) | occupied | Occupancy wording decision, stakeholder reply dated 2026-11-27 | empty / occupied |
-| [T009](terms/T009.md) | symbol | candidate | [S006](sources/S006.md) | symbol | p. 1, opening paragraph, continued-play sentence | her own symbol in a vacant cell |
+| [T009](terms/T009.md) | symbol | preferred | [S006](sources/S006.md) | symbol | p. 1, opening paragraph, continued-play sentence | her own symbol in a vacant cell |
 | [T010](terms/T010.md) | piece | candidate | [S002](sources/S002.md) | pieces | Opening paragraph, first sentence | players alternate placing pieces |
 | [T011](terms/T011.md) | X | candidate | [S002](sources/S002.md) | Xs | Opening paragraph, first sentence | typically Xs for the first player and Os for the second |
 | [T011](terms/T011.md) | X | candidate | [S004](sources/S004.md) | X | Main English definition, first sentence, retrieved through web search on 2026-11-27 | write either O or X |
