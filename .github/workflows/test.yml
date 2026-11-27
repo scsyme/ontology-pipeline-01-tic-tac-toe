@@ -1,4 +1,4 @@
-name: Source generator tests
+name: Register generator tests
 
 on:
   push:
@@ -24,3 +24,7 @@ jobs:
         run: |
           python tools/scripts/generate_sources.py
           git diff --exit-code -- 01-controlled-vocabulary/sources.md
+      - name: Verify generated term register
+        run: |
+          python tools/scripts/generate_terms.py
+          git diff --exit-code -- 01-controlled-vocabulary/terms.md
