@@ -10,17 +10,17 @@ Conventional 3×3 tic-tac-toe, two players, alternating turns, X starts. Variant
 
 ## First competency question (proposed)
 
-Given a reachable game position, which squares may the next player legally mark?
+Given a reachable game position, which cells may the next player legally mark?
 
 ## Hypothesis
 
-An explicit domain model can distinguish an empty square from a legal destination, including when a game has already ended.
+An explicit domain model can distinguish an empty cell from a legal destination, including when a game has already ended.
 
 ## Independent checks
 
 - An empty initial board permits nine destinations.
-- An occupied square is not a legal destination.
-- A reachable position with a winning line permits no further moves, even if empty squares remain.
+- An occupied cell is not a legal destination.
+- A reachable position with a winning line permits no further moves, even if empty cells remain.
 - A full drawn board permits no further moves.
 
 These are proposed checks, not executed results. Later experiments may explore exhaustive reachable-state verification.
@@ -36,4 +36,8 @@ Review the source methodology before each modelling increment. Record source evi
 
 ## Status
 
-Initial experimental framing, awaiting review. No ontology or executable model has yet been created.
+Stage 1 is in progress. The fifteen term records include six preferred terms with agreed definitions. These are cell, empty, occupied, symbol, X and O.
+
+Start with the [term register](01-controlled-vocabulary/terms.md), [source register](01-controlled-vocabulary/sources.md) and [methodology](01-controlled-vocabulary/methodology.md). The concept reviews record evidence, interpretations, selected wording and open decisions.
+
+Next, review the wording that distinguishes symbol forms from individual occurrences. Remaining vocabulary for the competency question includes board, player, move, turn and terminal outcomes. The game checks above remain proposed experiments.

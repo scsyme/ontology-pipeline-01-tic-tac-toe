@@ -22,7 +22,11 @@ source_ids:
 
 # What does a player put in a cell?
 
-The suspected concept is the thing placed or drawn in a cell during play. The general-label candidates are [symbol](../terms/T009.md) and [piece](../terms/T010.md). X, O, cross, nought and zero name particular forms in the captured contexts. Scott subsequently selected symbol as the preferred term, as recorded below.
+## Current outcome
+
+Scott selected [symbol (T009)](../terms/T009.md), [X (T011)](../terms/T011.md) and [O (T012)](../terms/T012.md) and approved their definitions on 2026-11-27. The term records hold the agreed wording and decision provenance. Symbol refers to an individual occurrence in a cell. X and O name its possible forms. Turn order is deferred to the game rules.
+
+Piece, cross, nought and zero remain candidates.
 
 ## Source coverage
 
@@ -48,20 +52,10 @@ NRICH's zero names the drawn nought. MIT's numeric zero represents an initially 
 
 The sources use symbol and piece for things that can be placed and counted. The agreed definition in T009 uses symbol for an individual occurrence in a cell. Multiple occurrences can share the X or O form.
 
-## Recommendation for stakeholder selection
+## Selection rationale and open decisions
 
-Prefer symbol for the general concept. It has direct domain evidence in S006 and accommodates drawn, displayed and physical representations. Piece is also supported by S002, with the physical-object connotation to consider.
+Symbol has direct domain evidence in S006 and accommodates drawn, displayed and physical representations. Piece is supported by S002, with the physical-object connotation discussed above.
 
-Mark is a possible editorial alternative already used in our discussion. In the reviewed primary passages, MIT uses marked as a verb for updating its representation. That occurrence alone does not establish mark as the noun naming this concept.
+Mark was an editorial alternative in our discussion. MIT uses marked as a verb for updating its representation. That occurrence alone does not establish mark as the noun naming this concept.
 
-Scott selected symbol as the preferred general term on 2026-11-27. The symbol definition is recorded in T009. Detailed relationships among the specific forms remain open. S003's access gap and S004's retrieval qualification limit the assessment.
-
-## Stakeholder selection, 2026-11-27
-
-Scott Syme approved [symbol (T009)](../terms/T009.md) as the preferred term. Its canonical record holds the decision provenance. The comparison above supplies the reasoning available at selection time.
-
-## Symbol-form selection, 2026-11-27
-
-Scott Syme selected [X (T011)](../terms/T011.md) and [O (T012)](../terms/T012.md) as the preferred names for the two symbol forms. Their records hold the decision provenance. Cross and nought remain candidates for later thesaurus work. This makes explicit the names already used in the agreed cell and occupancy definitions.
-
-Scott approved the shape-based definitions in T011 and T012 on 2026-11-27. Turn order is deferred to the game rules. Scott approved the [symbol definition](../terms/T009.md#agreed-definition) on 2026-11-27.
+Detailed relationships among the candidate terms remain for later review under the [alternative-term approach](../methodology.md#alternative-terms). The definitions' wording across cell, occupancy and symbol needs a consistency review for form versus occurrence. S003's access gap and S004's retrieval qualification remain applicable.

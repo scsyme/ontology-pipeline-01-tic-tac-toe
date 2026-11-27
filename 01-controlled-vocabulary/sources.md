@@ -1,6 +1,6 @@
 # Controlled vocabulary: source register
 
-Date: 2026-11-25. Status: candidate sources for review; no vocabulary approved.
+Register established 2026-11-25. Summary updated 2026-11-27. Stage 1 vocabulary development is in progress.
 
 Purpose: establish traceable evidence for conventional 3×3 tic-tac-toe and the initial competency question in [README](../README.md). Source IDs are local stable references, not concept identifiers.
 
@@ -20,10 +20,10 @@ Purpose: establish traceable evidence for conventional 3×3 tic-tac-toe and the 
 
 ## Source selection decisions
 
-Use S001, S002, S004, S005 and S006 as the initial candidate corpus. S003 remains deferred rather than treated as verified evidence. Add sources when a competency question or disagreement exposes a gap. Retrieved means relevant text was available through web retrieval on the date above; no immutable snapshots or content hashes have been captured.
+Use S001, S002, S004, S005 and S006 as the initial candidate corpus. S003 remains deferred rather than treated as verified evidence. Add sources when a competency question or disagreement exposes a gap. Retrieved records identify sources whose relevant text has been obtained. Term records and concept reviews give passage locators, retrieval qualifications and assessment dates where recorded. Immutable snapshots and content hashes remain an open provenance improvement.
 
-The methodological reference is [Ontology Pipeline Studio](https://jesstalisman-ia.github.io/ontology-pipeline/), separate from the domain corpus. Retrieval failed on this occasion; verify the actual stage-one workflow and artefact requirements before proceeding to extraction.
+S007 records the stakeholder's occupancy-term decisions. Its role is decision provenance. The methodological reference is [Ontology Pipeline Studio](https://jesstalisman-ia.github.io/ontology-pipeline/), reviewed in [methodology.md](methodology.md).
 
-## Next increment
+## Current use
 
-Review source suitability, then extract candidate terms with source IDs and passage locators, preserving original terminology and distinguishing evidence from interpretation. Resolve synonyms, ambiguities and scope before approving a controlled vocabulary. No extraction, preferred terms, schema or ontology has been approved in this increment.
+Assess each suspected concept across the agreed domain corpus. Record wording and locators in atomic term files, then compare meanings and bring proposed preferred terms and definitions to Scott for selection. The [term register](terms.md) links to the resulting records. S003 remains deferred, and Cambridge's direct-access limitation is documented in the relevant evidence and reviews.
