@@ -9,7 +9,14 @@ Regenerate with `python tools/scripts/generate_terms.py`. Edit the individual re
 | ID | Term | Status | Source | Observed form | Passage | Excerpt |
 | --- | --- | --- | --- | --- | --- | --- |
 | [T001](terms/T001.md) | square | candidate | [S005](sources/S005.md) | squares | p. 1, second paragraph, sentence about the numbered input | the nine squares of the playing board |
+| [T001](terms/T001.md) | square | candidate | [S002](sources/S002.md) | square | Article paragraph beginning For 2-in-a-row, final sentence, 1×5 revenge variant | the second or fourth square |
+| [T001](terms/T001.md) | square | candidate | [S002](sources/S002.md) | square | Article paragraph beginning In 3-in-a-row, second sentence, augmented board variant | an augmented corner square |
+| [T001](terms/T001.md) | square | candidate | [S004](sources/S004.md) | squares | Main English definition, first sentence, Cambridge Advanced Learner's Dictionary & Thesaurus | a pattern of nine squares |
 | [T002](terms/T002.md) | space | candidate | [S005](sources/S005.md) | space | p. 1, second paragraph, final sentence | a space that is already filled |
+| [T002](terms/T002.md) | space | candidate | [S001](sources/S001.md) | spaces | How to play, paragraph immediately after the grid illustration, first sentence | one of the nine spaces of the grid |
+| [T002](terms/T002.md) | space | candidate | [S001](sources/S001.md) | space | How to play, paragraph immediately after the grid illustration, second sentence | Once a space is filled |
 | [T003](terms/T003.md) | cell | candidate | [S006](sources/S006.md) | cell | p. 1, opening paragraph, sentence describing how play continues | her own symbol in a vacant cell |
+| [T003](terms/T003.md) | cell | candidate | [S006](sources/S006.md) | cells | p. 1, opening paragraph, sentence describing the first player's placement | one of the nine cells |
+| [T004](terms/T004.md) | position | candidate | [S005](sources/S005.md) | position | p. 1, documentation comment for Computer.play, sentence describing the return value | the position of its next move |
 
 <!-- END GENERATED TERMS -->
