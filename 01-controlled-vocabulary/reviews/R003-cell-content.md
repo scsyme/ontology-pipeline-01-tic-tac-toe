@@ -22,7 +22,7 @@ source_ids:
 
 # What does a player put in a cell?
 
-The suspected concept is the thing placed or drawn in a cell during play. The general-label candidates are [symbol](../terms/T009.md) and [piece](../terms/T010.md). X, O, cross, nought and zero name particular forms in the captured contexts. All seven records are candidates.
+The suspected concept is the thing placed or drawn in a cell during play. The general-label candidates are [symbol](../terms/T009.md) and [piece](../terms/T010.md). X, O, cross, nought and zero name particular forms in the captured contexts. Scott subsequently selected symbol as the preferred term, as recorded below.
 
 ## Source coverage
 
@@ -54,4 +54,8 @@ Prefer symbol for the general concept. It has direct domain evidence in S006 and
 
 Mark is a possible editorial alternative already used in our discussion. In the reviewed primary passages, MIT uses marked as a verb for updating its representation. That occurrence alone does not establish mark as the noun naming this concept.
 
-Scott's next decision is the preferred general term. Formal definition and detailed relationships among the specific forms remain open. S003's access gap and S004's retrieval qualification limit the assessment.
+Scott selected symbol as the preferred general term on 2026-11-27. Formal definition and detailed relationships among the specific forms remain open. S003's access gap and S004's retrieval qualification limit the assessment.
+
+## Stakeholder selection, 2026-11-27
+
+Scott Syme approved [symbol (T009)](../terms/T009.md) as the preferred term. Its canonical record holds the decision provenance. The comparison above supplies the reasoning available at selection time.
