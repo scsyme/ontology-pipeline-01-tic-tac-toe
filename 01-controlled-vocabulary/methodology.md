@@ -29,3 +29,7 @@ Consider [S005, the MIT OpenCourseWare assignment](sources/S005.md). The assignm
 Record the source genre in a required `kind` field on each atomic source record. Use a short, specific label and reuse it for other sources of the same kind. The labels are local editorial judgements and the list is open. For example, the dictionary entry in S004 can help with naming, while the programming assignment in S005 can help with move restrictions. The selection rationale explains why each item matters to our question. S003 can be identified as a book from its citation while its passage remains unverified.
 
 Whether a separate `system` field improves traceability remains open.
+
+## Concept-by-concept comparison, 2026-11-27
+
+For each suspected concept, assess every agreed source before proposing a grouping. Record source wording and passage locators in atomic candidate-term files. Repeated wording adds evidence to its existing record. Record access gaps, scope differences and absence of relevant wording in the concept review. Then compare referents and test substitutions in context. Equivalence is a review conclusion. Apply this approach to future comparisons as well as the board-location trial.
