@@ -37,7 +37,7 @@ Scott selected [empty (T007)](../terms/T007.md) and [occupied (T008)](../terms/T
 
 ## Interpretation for review
 
-For an individual cell, vacant aligns with the assistant's empty and filled aligns with occupied. The comparison depends on what is being described. A filled winning line in S006 means every cell in that line bears the same player's symbol.
+For an individual cell, vacant aligns with the assistant's empty and filled aligns with occupied. The comparison depends on what is being described. A filled winning line in S006 means every cell in that line contains a symbol of the same form.
 
 There are two useful levels of description. Occupancy asks whether a cell has a mark, giving two possibilities. Contents distinguishes no mark, X and O, giving three possibilities. Thus the earlier two-state description concerns occupancy and leaves the mark's identity unspecified.
 
@@ -45,4 +45,4 @@ Vacancy alone does not establish that a move is legal. The stopping-rule evidenc
 
 ## Open decisions
 
-The proposed alignment with vacant and filled remains for later review under the [alternative-term approach](../methodology.md#alternative-terms). The source-access limitations above remain applicable. The wording that distinguishes a symbol's form from an individual occurrence is also awaiting review.
+The proposed alignment with vacant and filled remains for later review under the [alternative-term approach](../methodology.md#alternative-terms). The source-access limitations above remain applicable.
