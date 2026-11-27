@@ -15,8 +15,8 @@ Regenerate with `python tools/scripts/generate_terms.py`. Edit the individual re
 | [T002](terms/T002.md) | space | candidate | [S005](sources/S005.md) | space | p. 1, second paragraph, final sentence | a space that is already filled |
 | [T002](terms/T002.md) | space | candidate | [S001](sources/S001.md) | spaces | How to play, paragraph immediately after the grid illustration, first sentence | one of the nine spaces of the grid |
 | [T002](terms/T002.md) | space | candidate | [S001](sources/S001.md) | space | How to play, paragraph immediately after the grid illustration, second sentence | Once a space is filled |
-| [T003](terms/T003.md) | cell | candidate | [S006](sources/S006.md) | cell | p. 1, opening paragraph, sentence describing how play continues | her own symbol in a vacant cell |
-| [T003](terms/T003.md) | cell | candidate | [S006](sources/S006.md) | cells | p. 1, opening paragraph, sentence describing the first player's placement | one of the nine cells |
+| [T003](terms/T003.md) | cell | preferred | [S006](sources/S006.md) | cell | p. 1, opening paragraph, sentence describing how play continues | her own symbol in a vacant cell |
+| [T003](terms/T003.md) | cell | preferred | [S006](sources/S006.md) | cells | p. 1, opening paragraph, sentence describing the first player's placement | one of the nine cells |
 | [T004](terms/T004.md) | position | candidate | [S005](sources/S005.md) | position | p. 1, documentation comment for Computer.play, sentence describing the return value | the position of its next move |
 
 <!-- END GENERATED TERMS -->

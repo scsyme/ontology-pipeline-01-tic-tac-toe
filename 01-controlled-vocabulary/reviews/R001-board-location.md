@@ -18,7 +18,7 @@ source_ids:
 
 # Comparing candidate terms for one board location
 
-**Proposal for review.** Group the conventional-game usages of square, space and cell around a provisional meaning, one of the nine locations in the 3×3 board that can hold a player's mark. Hold position for further interpretation. All four terms have candidate status. Preferred wording and a formal definition remain open.
+**Proposal for review.** Group the conventional-game usages of square, space and cell around a provisional meaning, one of the nine locations in the 3×3 board that can hold a player's mark. Hold position for further interpretation. Scott's subsequent selection of cell is recorded below. A formal definition remains open.
 
 ## Corpus coverage
 
@@ -61,3 +61,9 @@ The stopping-rule reviews in S005 and S006 establish that a location can remain 
 3. Resolve the meaning of position before considering its inclusion.
 
 The S003 access gap and S004 retrieval qualification remain visible. Confidence is high for the proposed conventional-game grouping and lower for position.
+
+## Stakeholder selection, 2026-11-27
+
+Scott Syme selected [cell (T003)](../terms/T003.md) as the preferred term for our purposes. The term record holds the decision and its provenance. Use that wording in subsequent work. Further treatment of the other candidate terms is deferred to the thesaurus stage.
+
+The proposed grouping and the qualifications above provide the reasoning available at selection time. Detailed equivalence judgements remain open for that later review.
