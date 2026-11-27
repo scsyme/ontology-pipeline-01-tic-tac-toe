@@ -45,4 +45,4 @@ Vacant and filled are source-attested candidates. Scott selected empty and occup
 
 ## Stakeholder selection, 2026-11-27
 
-Use [empty (T007)](../terms/T007.md) and [occupied (T008)](../terms/T008.md) as the preferred occupancy terms. [S007](../sources/S007.md) records the selection. Vacant and filled retain candidate status for later thesaurus work. Formal definitions remain open.
+Use [empty (T007)](../terms/T007.md) and [occupied (T008)](../terms/T008.md) as the preferred occupancy terms. [S007](../sources/S007.md) records the selection. Vacant and filled retain candidate status for later thesaurus work. Scott approved the definitions recorded in [T007](../terms/T007.md#agreed-definition) and [T008](../terms/T008.md#agreed-definition) on 2026-11-27. [S007](../sources/S007.md#definition-approval) records that approval.
