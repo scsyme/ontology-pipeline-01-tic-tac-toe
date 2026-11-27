@@ -59,3 +59,9 @@ Scott selected symbol as the preferred general term on 2026-11-27. Formal defini
 ## Stakeholder selection, 2026-11-27
 
 Scott Syme approved [symbol (T009)](../terms/T009.md) as the preferred term. Its canonical record holds the decision provenance. The comparison above supplies the reasoning available at selection time.
+
+## Symbol-form selection, 2026-11-27
+
+Scott Syme selected [X (T011)](../terms/T011.md) and [O (T012)](../terms/T012.md) as the preferred names for the two symbol forms. Their records hold the decision provenance. Cross and nought remain candidates for later thesaurus work. This makes explicit the names already used in the agreed cell and occupancy definitions.
+
+Formal definitions of these forms and the proposed symbol definition remain open for review.
