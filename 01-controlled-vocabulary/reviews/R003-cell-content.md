@@ -64,4 +64,4 @@ Scott Syme approved [symbol (T009)](../terms/T009.md) as the preferred term. Its
 
 Scott Syme selected [X (T011)](../terms/T011.md) and [O (T012)](../terms/T012.md) as the preferred names for the two symbol forms. Their records hold the decision provenance. Cross and nought remain candidates for later thesaurus work. This makes explicit the names already used in the agreed cell and occupancy definitions.
 
-Formal definitions of the X and O forms remain open for review. Scott approved the [symbol definition](../terms/T009.md#agreed-definition) on 2026-11-27.
+Scott approved the shape-based definitions in T011 and T012 on 2026-11-27. Turn order is deferred to the game rules. Scott approved the [symbol definition](../terms/T009.md#agreed-definition) on 2026-11-27.
