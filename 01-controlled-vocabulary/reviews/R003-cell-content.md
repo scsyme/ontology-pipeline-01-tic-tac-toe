@@ -46,7 +46,7 @@ X and O identify the two distinguishable forms. Cross and nought correspond to t
 
 NRICH's zero names the drawn nought. MIT's numeric zero represents an initially unmarked array element, with different values for X and O. Treating those two occurrences as equivalent would confuse occupied and empty cells. T015 captures the NRICH wording and records this ambiguity.
 
-The sources use symbol and piece for things that can be placed and counted. Our eventual definition should clarify how the selected word applies to an individual occurrence in a cell and to the X/O form associated with a player.
+The sources use symbol and piece for things that can be placed and counted. The agreed definition in T009 uses symbol for an individual occurrence in a cell. Multiple occurrences can share the X or O form.
 
 ## Recommendation for stakeholder selection
 
@@ -54,7 +54,7 @@ Prefer symbol for the general concept. It has direct domain evidence in S006 and
 
 Mark is a possible editorial alternative already used in our discussion. In the reviewed primary passages, MIT uses marked as a verb for updating its representation. That occurrence alone does not establish mark as the noun naming this concept.
 
-Scott selected symbol as the preferred general term on 2026-11-27. Formal definition and detailed relationships among the specific forms remain open. S003's access gap and S004's retrieval qualification limit the assessment.
+Scott selected symbol as the preferred general term on 2026-11-27. The symbol definition is recorded in T009. Detailed relationships among the specific forms remain open. S003's access gap and S004's retrieval qualification limit the assessment.
 
 ## Stakeholder selection, 2026-11-27
 
@@ -64,4 +64,4 @@ Scott Syme approved [symbol (T009)](../terms/T009.md) as the preferred term. Its
 
 Scott Syme selected [X (T011)](../terms/T011.md) and [O (T012)](../terms/T012.md) as the preferred names for the two symbol forms. Their records hold the decision provenance. Cross and nought remain candidates for later thesaurus work. This makes explicit the names already used in the agreed cell and occupancy definitions.
 
-Formal definitions of these forms and the proposed symbol definition remain open for review.
+Formal definitions of the X and O forms remain open for review. Scott approved the [symbol definition](../terms/T009.md#agreed-definition) on 2026-11-27.
