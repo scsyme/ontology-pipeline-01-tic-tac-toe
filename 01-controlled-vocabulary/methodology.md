@@ -33,3 +33,19 @@ Whether a separate `system` field improves traceability remains open.
 ## Concept-by-concept comparison, 2026-11-27
 
 For each suspected concept, assess every agreed source before proposing a grouping. Record source wording and passage locators in atomic candidate-term files. Repeated wording adds evidence to its existing record. Record access gaps, scope differences and absence of relevant wording in the concept review. Then compare referents and test substitutions in context. Equivalence is a review conclusion. Apply this approach to future comparisons as well as the board-location trial.
+
+## Decision records
+
+The canonical term file records the selected wording, agreed definition, approver, approval date and the decision's context. Its status preferred records selection of the term. Definition approval is recorded separately in the body. Reviews link to these records and present a concise current outcome followed by evidence, reasoning and open decisions.
+
+Source records preserve the origin of evidence, including stakeholder-origin wording when applicable. S007 supplies that provenance for empty and occupied. Existing source passages retain their original terminology. Project descriptions use preferred terms where their meaning has been settled.
+
+Review status proposed applies to unresolved interpretations within the review. Approved outcomes are identified explicitly in its current-outcome section.
+
+## Alternative terms
+
+Stage 1 of the Studio includes preferred terms, alternatives and definitions. Our temporary deferral of detailed alternative-term treatment is an incremental project choice. Before declaring Stage 1 complete, revisit straightforward alternatives and record their disposition. Broader semantic relationships and unresolved ambiguities can receive further treatment during the thesaurus stage.
+
+## Immediate review sequence
+
+Consolidate current documentation, then review the distinction between symbol forms and individual occurrences in the agreed definitions with Scott. A compact generated view of preferred terms and definitions, and stronger validation, remain proposals for subsequent increments.

@@ -1,6 +1,6 @@
-# Candidate-term register
+# Term register
 
-The individual Markdown files under [terms](terms/) are canonical. Each row shows one recorded occurrence, with its source and passage. IDs identify term records. Concept grouping and preferred-label selection remain open.
+The individual Markdown files under [terms](terms/) are canonical. Each row shows one recorded occurrence, with its source and passage. IDs identify term records. Preferred records contain the agreed definitions and approval provenance. Candidate records await further decisions. The concept reviews record proposed equivalences and open decisions.
 
 Regenerate with `python tools/scripts/generate_terms.py`. Edit the individual records to update the table. The script validates required fields, term IDs and source-file references.
 

@@ -18,7 +18,9 @@ source_ids:
 
 # Comparing candidate terms for one board location
 
-**Proposal for review.** Group the conventional-game usages of square, space and cell around a provisional meaning, one of the nine locations in the 3×3 board that can hold a player's mark. Hold position for further interpretation. Scott's subsequent selection of cell is recorded below. The subsequently agreed definition is recorded in [T003](../terms/T003.md).
+## Current outcome
+
+Scott selected [cell (T003)](../terms/T003.md) and approved its definition on 2026-11-27. The canonical term record holds the wording and approval provenance. Square, space and position remain candidates. The comparison below supplies the reasoning and qualifications for later equivalence review.
 
 ## Corpus coverage
 
@@ -54,16 +56,10 @@ Our interpretation is that a board location persists when filled. S001 and S005 
 
 The stopping-rule reviews in S005 and S006 establish that a location can remain empty after play ends. Defining the proposed shared meaning as an available move would exclude such a location.
 
-## Decisions for review
+## Open decisions
 
-1. Accept or revise the proposed grouping of the conventional-game occurrences of square, space and cell.
-2. Decide whether S002's variant occurrences are useful supplementary evidence within their recorded limits.
-3. Resolve the meaning of position before considering its inclusion.
+- Review the proposed equivalence of the conventional-game usages of square, space and cell.
+- Decide how S002's variant occurrences should contribute to that assessment.
+- Resolve the meaning of position before considering it an alternative.
 
-The S003 access gap and S004 retrieval qualification remain visible. Confidence is high for the proposed conventional-game grouping and lower for position.
-
-## Stakeholder selection, 2026-11-27
-
-Scott Syme selected [cell (T003)](../terms/T003.md) as the preferred term for our purposes. The term record holds the decision and its provenance. Use that wording in subsequent work. Further treatment of the other candidate terms is deferred to the thesaurus stage.
-
-The proposed grouping and the qualifications above provide the reasoning available at selection time. Detailed equivalence judgements remain open for that later review.
+S003's access gap and S004's retrieval qualification remain applicable. Confidence is high for the contextual grouping of square, space and cell, and lower for position. Alternative-term treatment is staged as described in [methodology.md](../methodology.md#alternative-terms).

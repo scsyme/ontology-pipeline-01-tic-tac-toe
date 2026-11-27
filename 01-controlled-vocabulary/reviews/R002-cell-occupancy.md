@@ -14,11 +14,14 @@ source_ids:
   - "S004"
   - "S005"
   - "S006"
+  - "S007"
 ---
 
 # Wording for cell occupancy
 
-Scott approved the cell definition and asked how the assistant's descriptions empty and occupied align with source terminology. Those two labels were assistant paraphrases in the conversation. The following is a proposed interpretation for review.
+## Current outcome
+
+Scott selected [empty (T007)](../terms/T007.md) and [occupied (T008)](../terms/T008.md) and approved their definitions on 2026-11-27. Their records hold the agreed wording and link to [S007](../sources/S007.md) for decision provenance. Vacant and filled remain candidates. Empty and occupied originated as assistant paraphrases.
 
 ## Source coverage
 
@@ -30,8 +33,9 @@ Scott approved the cell definition and asked how the assistant's descriptions em
 | [S004](../sources/S004.md) | Direct access returned HTTP 403 again. The definition retrieved during R001 describes writing marks in nine squares and supplies no explicit occupancy labels. This finding relies on that earlier retrieved definition. |
 | [S005](../sources/S005.md) | The occupied-location restriction uses filled, captured in T006. The API comment on page 1 uses zero initially and values 1 and -1 for X and O. Those numbers belong to the assignment's representation. |
 | [S006](../sources/S006.md) | The opening paragraph uses vacant cell, captured in [T005](../terms/T005.md). It also uses filled for a row, column or diagonal, and fill for the grid. Those latter occurrences concern larger structures. |
+| [S007](../sources/S007.md) | Records Scott's selection and approval of the occupancy definitions. |
 
-## Proposed alignment
+## Interpretation for review
 
 For an individual cell, vacant aligns with the assistant's empty and filled aligns with occupied. The comparison depends on what is being described. A filled winning line in S006 means every cell in that line bears the same player's symbol.
 
@@ -39,10 +43,6 @@ There are two useful levels of description. Occupancy asks whether a cell has a 
 
 Vacancy alone does not establish that a move is legal. The stopping-rule evidence in S005 and S006 includes games that end with unmarked cells remaining.
 
-## Review decision
+## Open decisions
 
-Vacant and filled are source-attested candidates. Scott selected empty and occupied on 2026-11-27. The proposed alignment and distinction between occupancy and contents are interpretations for review. The recorded source-access limitations remain applicable.
-
-## Stakeholder selection, 2026-11-27
-
-Use [empty (T007)](../terms/T007.md) and [occupied (T008)](../terms/T008.md) as the preferred occupancy terms. [S007](../sources/S007.md) records the selection. Vacant and filled retain candidate status for later thesaurus work. Scott approved the definitions recorded in [T007](../terms/T007.md#agreed-definition) and [T008](../terms/T008.md#agreed-definition) on 2026-11-27. [S007](../sources/S007.md#definition-approval) records that approval.
+The proposed alignment with vacant and filled remains for later review under the [alternative-term approach](../methodology.md#alternative-terms). The source-access limitations above remain applicable. The wording that distinguishes a symbol's form from an individual occurrence is also awaiting review.
