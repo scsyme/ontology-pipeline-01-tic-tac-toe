@@ -25,14 +25,14 @@ Regenerate with `python tools/scripts/generate_terms.py`. Edit the individual re
 | [T008](terms/T008.md) | occupied | preferred | [S007](sources/S007.md) | occupied | Occupancy wording decision, stakeholder reply dated 2026-11-27 | empty / occupied |
 | [T009](terms/T009.md) | symbol | preferred | [S006](sources/S006.md) | symbol | p. 1, opening paragraph, continued-play sentence | her own symbol in a vacant cell |
 | [T010](terms/T010.md) | piece | candidate | [S002](sources/S002.md) | pieces | Opening paragraph, first sentence | players alternate placing pieces |
-| [T011](terms/T011.md) | X | candidate | [S002](sources/S002.md) | Xs | Opening paragraph, first sentence | typically Xs for the first player and Os for the second |
-| [T011](terms/T011.md) | X | candidate | [S004](sources/S004.md) | X | Main English definition, first sentence, retrieved through web search on 2026-11-27 | write either O or X |
-| [T011](terms/T011.md) | X | candidate | [S005](sources/S005.md) | X’s | p. 1, second paragraph, sentence asking the user to choose a side | crosses (X’s) or noughts (O’s) |
-| [T011](terms/T011.md) | X | candidate | [S006](sources/S006.md) | X | p. 1, opening paragraph, placement sentences | places an X |
-| [T012](terms/T012.md) | O | candidate | [S002](sources/S002.md) | Os | Opening paragraph, first sentence | typically Xs for the first player and Os for the second |
-| [T012](terms/T012.md) | O | candidate | [S004](sources/S004.md) | O | Main English definition, first sentence, retrieved through web search on 2026-11-27 | write either O or X |
-| [T012](terms/T012.md) | O | candidate | [S005](sources/S005.md) | O’s | p. 1, second paragraph, sentence asking the user to choose a side | crosses (X’s) or noughts (O’s) |
-| [T012](terms/T012.md) | O | candidate | [S006](sources/S006.md) | O | p. 1, opening paragraph, placement sentences | places an O |
+| [T011](terms/T011.md) | X | preferred | [S002](sources/S002.md) | Xs | Opening paragraph, first sentence | typically Xs for the first player and Os for the second |
+| [T011](terms/T011.md) | X | preferred | [S004](sources/S004.md) | X | Main English definition, first sentence, retrieved through web search on 2026-11-27 | write either O or X |
+| [T011](terms/T011.md) | X | preferred | [S005](sources/S005.md) | X’s | p. 1, second paragraph, sentence asking the user to choose a side | crosses (X’s) or noughts (O’s) |
+| [T011](terms/T011.md) | X | preferred | [S006](sources/S006.md) | X | p. 1, opening paragraph, placement sentences | places an X |
+| [T012](terms/T012.md) | O | preferred | [S002](sources/S002.md) | Os | Opening paragraph, first sentence | typically Xs for the first player and Os for the second |
+| [T012](terms/T012.md) | O | preferred | [S004](sources/S004.md) | O | Main English definition, first sentence, retrieved through web search on 2026-11-27 | write either O or X |
+| [T012](terms/T012.md) | O | preferred | [S005](sources/S005.md) | O’s | p. 1, second paragraph, sentence asking the user to choose a side | crosses (X’s) or noughts (O’s) |
+| [T012](terms/T012.md) | O | preferred | [S006](sources/S006.md) | O | p. 1, opening paragraph, placement sentences | places an O |
 | [T013](terms/T013.md) | cross | candidate | [S001](sources/S001.md) | cross | How to play, first paragraph | always draws a cross |
 | [T013](terms/T013.md) | cross | candidate | [S005](sources/S005.md) | crosses | p. 1, second paragraph, sentence asking the user to choose a side | crosses (X’s) or noughts (O’s) |
 | [T014](terms/T014.md) | nought | candidate | [S001](sources/S001.md) | nought | How to play, first paragraph | a nought (or zero) |
