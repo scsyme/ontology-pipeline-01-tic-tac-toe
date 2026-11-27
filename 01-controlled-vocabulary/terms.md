@@ -18,5 +18,8 @@ Regenerate with `python tools/scripts/generate_terms.py`. Edit the individual re
 | [T003](terms/T003.md) | cell | preferred | [S006](sources/S006.md) | cell | p. 1, opening paragraph, sentence describing how play continues | her own symbol in a vacant cell |
 | [T003](terms/T003.md) | cell | preferred | [S006](sources/S006.md) | cells | p. 1, opening paragraph, sentence describing the first player's placement | one of the nine cells |
 | [T004](terms/T004.md) | position | candidate | [S005](sources/S005.md) | position | p. 1, documentation comment for Computer.play, sentence describing the return value | the position of its next move |
+| [T005](terms/T005.md) | vacant | candidate | [S006](sources/S006.md) | vacant | p. 1, opening paragraph, sentence describing continued play | a vacant cell |
+| [T006](terms/T006.md) | filled | candidate | [S001](sources/S001.md) | filled | How to play, paragraph after grid illustration, second sentence | Once a space is filled |
+| [T006](terms/T006.md) | filled | candidate | [S005](sources/S005.md) | filled | p. 1, second paragraph, final sentence | a space that is already filled |
 
 <!-- END GENERATED TERMS -->

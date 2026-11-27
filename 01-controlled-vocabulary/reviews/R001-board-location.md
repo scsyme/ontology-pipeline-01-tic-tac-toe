@@ -18,7 +18,7 @@ source_ids:
 
 # Comparing candidate terms for one board location
 
-**Proposal for review.** Group the conventional-game usages of square, space and cell around a provisional meaning, one of the nine locations in the 3×3 board that can hold a player's mark. Hold position for further interpretation. Scott's subsequent selection of cell is recorded below. A formal definition remains open.
+**Proposal for review.** Group the conventional-game usages of square, space and cell around a provisional meaning, one of the nine locations in the 3×3 board that can hold a player's mark. Hold position for further interpretation. Scott's subsequent selection of cell is recorded below. The subsequently agreed definition is recorded in [T003](../terms/T003.md).
 
 ## Corpus coverage
 
