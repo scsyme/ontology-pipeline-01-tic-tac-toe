@@ -21,5 +21,7 @@ Regenerate with `python tools/scripts/generate_terms.py`. Edit the individual re
 | [T005](terms/T005.md) | vacant | candidate | [S006](sources/S006.md) | vacant | p. 1, opening paragraph, sentence describing continued play | a vacant cell |
 | [T006](terms/T006.md) | filled | candidate | [S001](sources/S001.md) | filled | How to play, paragraph after grid illustration, second sentence | Once a space is filled |
 | [T006](terms/T006.md) | filled | candidate | [S005](sources/S005.md) | filled | p. 1, second paragraph, final sentence | a space that is already filled |
+| [T007](terms/T007.md) | empty | preferred | [S007](sources/S007.md) | empty | Occupancy wording decision, stakeholder reply dated 2026-11-27 | empty / occupied |
+| [T008](terms/T008.md) | occupied | preferred | [S007](sources/S007.md) | occupied | Occupancy wording decision, stakeholder reply dated 2026-11-27 | empty / occupied |
 
 <!-- END GENERATED TERMS -->
