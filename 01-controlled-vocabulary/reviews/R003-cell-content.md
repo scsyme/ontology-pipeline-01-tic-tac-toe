@@ -28,6 +28,12 @@ Scott selected [symbol (T009)](../terms/T009.md), [X (T011)](../terms/T011.md) a
 
 Piece, cross, nought and zero remain candidates.
 
+## Wording approval
+
+On 2026-11-27 Scott Syme was asked whether he approved the four revised definitions as written. He replied “Yes, sound improvements”. The approved wording is in [cell](../terms/T003.md#agreed-definition), [empty](../terms/T007.md#agreed-definition), [occupied](../terms/T008.md#agreed-definition) and [symbol](../terms/T009.md#agreed-definition).
+
+For example, a cross in the top-left cell and a cross in the centre cell count as two individual symbols sharing the X form.
+
 ## Source coverage
 
 | Source | Evidence considered | Assessment |
@@ -38,7 +44,7 @@ Piece, cross, nought and zero remain candidates.
 | [S004, Cambridge Dictionary](../sources/S004.md) | Main definition from search retrieval of the recorded URL, 2026-11-27. Direct access returned HTTP 403. | Describes writing O or X. Third-party example sentences are outside this definition assessment. Live-page verification remains open. |
 | [S005, MIT](../sources/S005.md) | Page 1, opening game description, side-selection instruction and API comment. | Explicitly pairs crosses with X and noughts with O. The API assigns numeric values to the board representation. |
 | [S006, Toronto](../sources/S006.md) | Page 1, opening paragraph. | Describes placing X and O and calls what a player puts in a vacant cell their symbol. |
-| [S007, stakeholder decision](../sources/S007.md) | Approved occupancy definitions. | Establishes X and O in our current definitions. Supplies no stakeholder choice of a general label for them. |
+| [S007, stakeholder decision](../sources/S007.md) | Approved occupancy definitions. | Records the original occupancy definitions using X and O. Supplies no stakeholder choice of a general label for them. |
 
 The atomic term records hold selected excerpts and locators. This review records our interpretation of their relationships.
 
@@ -58,4 +64,4 @@ Symbol has direct domain evidence in S006 and accommodates drawn, displayed and 
 
 Mark was an editorial alternative in our discussion. MIT uses marked as a verb for updating its representation. That occurrence alone does not establish mark as the noun naming this concept.
 
-Detailed relationships among the candidate terms remain for later review under the [alternative-term approach](../methodology.md#alternative-terms). The definitions' wording across cell, occupancy and symbol needs a consistency review for form versus occurrence. S003's access gap and S004's retrieval qualification remain applicable.
+Detailed relationships among the candidate terms remain for later review under the [alternative-term approach](../methodology.md#alternative-terms). S003's access gap and S004's retrieval qualification remain applicable.

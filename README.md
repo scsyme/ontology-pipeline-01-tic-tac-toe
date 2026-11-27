@@ -40,4 +40,4 @@ Stage 1 is in progress. The fifteen term records include six preferred terms wit
 
 Start with the [term register](01-controlled-vocabulary/terms.md), [source register](01-controlled-vocabulary/sources.md) and [methodology](01-controlled-vocabulary/methodology.md). The concept reviews record evidence, interpretations, selected wording and open decisions.
 
-Next, review the wording that distinguishes symbol forms from individual occurrences. Remaining vocabulary for the competency question includes board, player, move, turn and terminal outcomes. The game checks above remain proposed experiments.
+Remaining vocabulary for the competency question includes board, player, move, turn and terminal outcomes. The game checks above remain proposed experiments.

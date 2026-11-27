@@ -46,6 +46,6 @@ Review status proposed applies to unresolved interpretations within the review. 
 
 Stage 1 of the Studio includes preferred terms, alternatives and definitions. Our temporary deferral of detailed alternative-term treatment is an incremental project choice. Before declaring Stage 1 complete, revisit straightforward alternatives and record their disposition. Broader semantic relationships and unresolved ambiguities can receive further treatment during the thesaurus stage.
 
-## Immediate review sequence
+## Review progress
 
-Consolidate current documentation, then review the distinction between symbol forms and individual occurrences in the agreed definitions with Scott. A compact generated view of preferred terms and definitions, and stronger validation, remain proposals for subsequent increments.
+Scott approved the revised definitions distinguishing forms and occurrences in the [cell-content review](reviews/R003-cell-content.md#wording-approval). A compact generated view of preferred terms and definitions, and stronger validation, remain proposals for subsequent increments.
