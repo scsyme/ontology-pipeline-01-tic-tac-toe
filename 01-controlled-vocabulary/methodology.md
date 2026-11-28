@@ -44,7 +44,7 @@ Review status proposed applies to unresolved interpretations within the review. 
 
 ## Alternative terms
 
-Stage 1 of the Studio includes preferred terms, alternatives and definitions. Our temporary deferral of detailed alternative-term treatment is an incremental project choice. Before declaring Stage 1 complete, revisit straightforward alternatives and record their disposition. Broader semantic relationships and unresolved ambiguities can receive further treatment during the thesaurus stage.
+Stage 1 of the Studio includes preferred terms, alternatives and definitions. On 2026-11-28 Scott reported that page 29 of the Ontology Pipeline book places alternative-term assignment in the controlled vocabulary stage. He confirmed the project will tackle this in the latter part of Stage 1. Review the candidates then, assign the agreed alternatives and record the disposition of unresolved candidates before closing the stage. Broader semantic relationships and unresolved ambiguities can receive further treatment during the thesaurus stage.
 
 ## Review progress
 
