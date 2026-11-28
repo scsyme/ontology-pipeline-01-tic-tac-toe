@@ -1,6 +1,6 @@
 # Term register
 
-The individual Markdown files under [terms](terms/) are canonical. Each row shows one recorded occurrence, with its source and passage. IDs identify term records. Preferred records contain the agreed definitions and approval provenance. Candidate records await further decisions. The concept reviews record proposed equivalences and open decisions.
+The individual Markdown files under [terms](terms/) are canonical. Each row shows one recorded occurrence, with its source and passage. IDs identify term records. Preferred records identify stakeholder selections and record definitions as they are approved. Candidate records await further decisions. The concept reviews record proposed equivalences and open decisions.
 
 Regenerate with `python tools/scripts/generate_terms.py`. Edit the individual records to update the table. The script validates required fields, term IDs and source-file references.
 
@@ -38,5 +38,10 @@ Regenerate with `python tools/scripts/generate_terms.py`. Edit the individual re
 | [T014](terms/T014.md) | nought | candidate | [S001](sources/S001.md) | nought | How to play, first paragraph | a nought (or zero) |
 | [T014](terms/T014.md) | nought | candidate | [S005](sources/S005.md) | noughts | p. 1, second paragraph, sentence asking the user to choose a side | crosses (X’s) or noughts (O’s) |
 | [T015](terms/T015.md) | zero | candidate | [S001](sources/S001.md) | zero | How to play, first paragraph | a nought (or zero) |
+| [T016](terms/T016.md) | grid | preferred | [S001](sources/S001.md) | grid | How to play, instruction immediately before the diagram | Draw a grid like this between you |
+| [T016](terms/T016.md) | grid | preferred | [S005](sources/S005.md) | grid | p. 1, opening sentence | played on a 3x3 grid |
+| [T016](terms/T016.md) | grid | preferred | [S006](sources/S006.md) | grid | p. 1, opening sentence | square grid of cells |
+| [T017](terms/T017.md) | board | candidate | [S002](sources/S002.md) | board | Opening paragraph, first sentence describing conventional play | board |
+| [T017](terms/T017.md) | board | candidate | [S005](sources/S005.md) | playing board | p. 1, second paragraph, instruction for choosing a square | the nine squares of the playing board |
 
 <!-- END GENERATED TERMS -->
